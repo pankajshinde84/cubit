@@ -33,4 +33,4 @@ def test_empty_input(page: Page):
 
     expect(result).to_have_text(
         "Enter something!"
-    )çç
+    )
